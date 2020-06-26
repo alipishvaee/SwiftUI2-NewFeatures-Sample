@@ -14,6 +14,7 @@
 		9BF94C9624A6782800C265DE /* SwiftUI2_NewFeatures_SampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF94C9524A6782800C265DE /* SwiftUI2_NewFeatures_SampleTests.swift */; };
 		9BF94CA124A6782800C265DE /* SwiftUI2_NewFeatures_SampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF94CA024A6782800C265DE /* SwiftUI2_NewFeatures_SampleUITests.swift */; };
 		9BF94CAF24A6788200C265DE /* MultiLineTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF94CAE24A6788200C265DE /* MultiLineTextField.swift */; };
+		9BF94CB224A67DAB00C265DE /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF94CB124A67DAB00C265DE /* GridView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9BF94CA024A6782800C265DE /* SwiftUI2_NewFeatures_SampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI2_NewFeatures_SampleUITests.swift; sourceTree = "<group>"; };
 		9BF94CA224A6782800C265DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BF94CAE24A6788200C265DE /* MultiLineTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiLineTextField.swift; sourceTree = "<group>"; };
+		9BF94CB124A67DAB00C265DE /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				9BF94CAE24A6788200C265DE /* MultiLineTextField.swift */,
+				9BF94CB124A67DAB00C265DE /* GridView.swift */,
 			);
 			path = NewFeatures;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				9BF94C8624A6782500C265DE /* ContentView.swift in Sources */,
 				9BF94CAF24A6788200C265DE /* MultiLineTextField.swift in Sources */,
+				9BF94CB224A67DAB00C265DE /* GridView.swift in Sources */,
 				9BF94C8424A6782500C265DE /* SwiftUI2_NewFeatures_SampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
