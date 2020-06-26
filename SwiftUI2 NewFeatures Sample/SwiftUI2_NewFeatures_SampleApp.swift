@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI2_NewFeatures_SampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MultiLineTextField()
         }
     }
 }
