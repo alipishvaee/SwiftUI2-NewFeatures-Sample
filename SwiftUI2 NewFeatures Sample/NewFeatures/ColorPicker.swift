@@ -7,15 +7,15 @@
 
 import SwiftUI
 
-struct ColorPicker: View {
-    @State private var backColor = UIColor.white
+struct ColorPickerView: View {
+    @State private var backColor = Color.white
     var body: some View {
-        ColorPicker().frame(width: 200, height: 200, alignment: .center)
+        ColorPicker("", selection: $backColor)
     }
 }
 
 struct ColorPicker_Previews: PreviewProvider {
     static var previews: some View {
-        ColorPicker()
+        ColorPickerView()
     }
 }
