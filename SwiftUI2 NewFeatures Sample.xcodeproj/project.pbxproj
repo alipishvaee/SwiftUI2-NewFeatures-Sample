@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B23086E24ABB59C00FCD048 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B23086D24ABB59C00FCD048 /* VideoPlayerView.swift */; };
 		9B59190224A7B8AA00E68DF4 /* PageTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B59190124A7B8AA00E68DF4 /* PageTabView.swift */; };
 		9B59190424A7C40900E68DF4 /* SpriteKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B59190324A7C40900E68DF4 /* SpriteKit.swift */; };
 		9B59190624A7CAB200E68DF4 /* ColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B59190524A7CAB200E68DF4 /* ColorPicker.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9B23086D24ABB59C00FCD048 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		9B59190124A7B8AA00E68DF4 /* PageTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTabView.swift; sourceTree = "<group>"; };
 		9B59190324A7C40900E68DF4 /* SpriteKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpriteKit.swift; sourceTree = "<group>"; };
 		9B59190524A7CAB200E68DF4 /* ColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPicker.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				9B59190124A7B8AA00E68DF4 /* PageTabView.swift */,
 				9B59190324A7C40900E68DF4 /* SpriteKit.swift */,
 				9B59190524A7CAB200E68DF4 /* ColorPicker.swift */,
+				9B23086D24ABB59C00FCD048 /* VideoPlayerView.swift */,
 				9BDB88EE24AA77F100C04358 /* LazyVStacks.swift */,
 				9BDB88F024AA79C400C04358 /* NewProgressView.swift */,
 			);
@@ -300,6 +303,7 @@
 				9BF94C8424A6782500C265DE /* SwiftUI2_NewFeatures_SampleApp.swift in Sources */,
 				9BDB88F124AA79C400C04358 /* NewProgressView.swift in Sources */,
 				9B59190224A7B8AA00E68DF4 /* PageTabView.swift in Sources */,
+				9B23086E24ABB59C00FCD048 /* VideoPlayerView.swift in Sources */,
 				9B59190424A7C40900E68DF4 /* SpriteKit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
