@@ -9,7 +9,13 @@ import SwiftUI
 
 struct Link_Feature: View {
     var body: some View {
-        Link("Open my LinkedIn profile", destination: URL(string: "Http://www.linkedin.com/in/alipishvaee")!)
+        VStack {
+            Link("Open my LinkedIn profile", destination: URL(string: "Http://www.linkedin.com/in/alipishvaee")!)
+            Link(destination: URL(string: "Http://www.linkedin.com/in/alipishvaee")!) {
+                Image(systemName: "link.circle.fill")
+            }
+        }
+        
     }
 }
 
