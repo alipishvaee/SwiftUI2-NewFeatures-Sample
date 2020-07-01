@@ -9,9 +9,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+//        VideoPlayerView()
 //        LazyVStacks()
 //        NewProgressView()
-        VideoPlayerView()
+//        NewLabel()
+        Link_Feature()
     }
 }
 
