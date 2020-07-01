@@ -1,7 +1,7 @@
 # SwiftUI2 New Features in a sample project
 ## Here are some features covered in this project:
-### How create and use Multiline textField
-### How create and use newly introduced GridView
+How create and use Multiline textField
+How create and use newly introduced GridView
 ### How easily use new MapView
 ### How add page style to TabView
 ### How use SpriteKit in SwiftUI2
