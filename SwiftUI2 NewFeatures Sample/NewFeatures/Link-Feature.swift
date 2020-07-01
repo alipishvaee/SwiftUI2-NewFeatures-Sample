@@ -15,7 +15,6 @@ struct Link_Feature: View {
                 Image(systemName: "link.circle.fill")
             }
         }
-        
     }
 }
 
