@@ -1,1 +1,1 @@
-# SwiftUI2 NewFeatures in a sample project
+# SwiftUI2 New Features in a sample project
