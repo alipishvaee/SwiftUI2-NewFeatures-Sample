@@ -10,7 +10,7 @@ import SwiftUI
 struct ColorPickerView: View {
     @State private var backColor = Color.white
     var body: some View {
-        ColorPicker("", selection: $backColor).frame(width: 200, height: 200, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+        ColorPicker("", selection: $backColor).frame(width: 200, height: 200, alignment: .center)
     }
 }
 

@@ -19,6 +19,8 @@ struct VideoPlayerView: View {
                     .clipShape(Capsule())
                 Spacer()
             }
+            .frame(height: 250)
+            .padding()
         }
     }
 }
