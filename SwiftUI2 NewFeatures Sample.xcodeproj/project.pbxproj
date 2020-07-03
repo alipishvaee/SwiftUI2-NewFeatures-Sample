@@ -14,6 +14,7 @@
 		9B59190624A7CAB200E68DF4 /* ColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B59190524A7CAB200E68DF4 /* ColorPicker.swift */; };
 		9B8021F224AD0350005D54CE /* Link-Feature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8021F124AD0350005D54CE /* Link-Feature.swift */; };
 		9B8021F424AD3912005D54CE /* NewDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8021F324AD3912005D54CE /* NewDatePicker.swift */; };
+		9B8021F624AD3BC8005D54CE /* NewDisclosureGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8021F524AD3BC8005D54CE /* NewDisclosureGroup.swift */; };
 		9BDB88EF24AA77F100C04358 /* LazyVStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDB88EE24AA77F100C04358 /* LazyVStacks.swift */; };
 		9BDB88F124AA79C400C04358 /* NewProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDB88F024AA79C400C04358 /* NewProgressView.swift */; };
 		9BF94C8424A6782500C265DE /* SwiftUI2_NewFeatures_SampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF94C8324A6782500C265DE /* SwiftUI2_NewFeatures_SampleApp.swift */; };
@@ -52,6 +53,7 @@
 		9B59190524A7CAB200E68DF4 /* ColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPicker.swift; sourceTree = "<group>"; };
 		9B8021F124AD0350005D54CE /* Link-Feature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Link-Feature.swift"; sourceTree = "<group>"; };
 		9B8021F324AD3912005D54CE /* NewDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewDatePicker.swift; sourceTree = "<group>"; };
+		9B8021F524AD3BC8005D54CE /* NewDisclosureGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewDisclosureGroup.swift; sourceTree = "<group>"; };
 		9BDB88EE24AA77F100C04358 /* LazyVStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStacks.swift; sourceTree = "<group>"; };
 		9BDB88F024AA79C400C04358 /* NewProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewProgressView.swift; sourceTree = "<group>"; };
 		9BF94C8024A6782500C265DE /* SwiftUI2 NewFeatures Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI2 NewFeatures Sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -159,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				9BF94CAE24A6788200C265DE /* MultiLineTextField.swift */,
+				9B8021F524AD3BC8005D54CE /* NewDisclosureGroup.swift */,
 				9BF94CB124A67DAB00C265DE /* GridView.swift */,
 				9BF94CB324A6FE5C00C265DE /* MapView.swift */,
 				9B59190124A7B8AA00E68DF4 /* PageTabView.swift */,
@@ -317,6 +320,7 @@
 				9B59190224A7B8AA00E68DF4 /* PageTabView.swift in Sources */,
 				9B23086E24ABB59C00FCD048 /* VideoPlayerView.swift in Sources */,
 				9B59190424A7C40900E68DF4 /* SpriteKit.swift in Sources */,
+				9B8021F624AD3BC8005D54CE /* NewDisclosureGroup.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
